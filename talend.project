@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_yIIqMCXZEfCK2ub9fENgGg" label="SQLSERVER_To_MySQL" description="" language="java" technicalLabel="SQLSERVER_TO_MYSQL" local="true" author="_yIyKcCXZEfCK2ub9fENgGg" productVersion="Talend Cloud Data Management Platform-8.0.1.20250218_0945-patch" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_yJq7QCXZEfCK2ub9fENgGg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_yIyKcCXZEfCK2ub9fENgGg" login="dovancuong392k4@gmail.com"/>
+</xmi:XMI>
